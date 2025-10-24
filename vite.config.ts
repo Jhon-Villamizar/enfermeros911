@@ -20,5 +20,5 @@ export default defineConfig({
     },
     ssr: false,
   },
-  base: './',
+  base: '/enfermeros911/',
 })
